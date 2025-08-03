@@ -11,7 +11,7 @@ API_URL = "https://public-pugarch.de.r.appspot.com/predict"
 
 # 🖥️ Streamlit UI setup
 st.set_page_config(page_title="YOLOv8 Detector", layout="centered")
-st.title("🧠 YOLOv8 Object Detection")
+st.title(" Garbage  Detection model ")
 st.write("Upload an image, and the model will detect objects in it.")
 
 # 📤 Image uploader
